@@ -1,0 +1,1 @@
+je suis en train de faire une formation pour devenir data analyse et en meme temps je m'interesse à l'iA. dans cette formation de data A, le bases englobent de connaitre les tableaux croisés dynamiques d'excel ainsi que les calcul divers et variés donc danc ce dossier se trouve un apprentissage par l'exemple des tableaux croisés dynamiques
