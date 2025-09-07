@@ -1,3 +1,12 @@
 je suis en train de faire une formation pour devenir data analyse et en meme temps je m'interesse à l'iA. dans cette formation de data A, le bases englobent en partie des connaissances sur les tableaux croisés dynamiques d'excel ainsi que les calcul divers et variés donc, apres avoir survie une formation à l'aide de socle sur internet(youtube...) danc ce dossier se trouve un apprentissage par l'exemple des tableaux croisés dynamiques. 
 ma facon de fonctionnée est simple: je regarde une lecon/formation sur un sujet précis, une première fois, puis une seconde fois avec une écoute plus active afin de cqpter les element peut etre mis de coté la première fois. puis j'écoute une troisième fois juste avant de passer a l'action. 
 comme élon musk l'a dit : regarder une formation, c'est comme si l'on regardait un show tv, cela ne sert a rien si on ne teste pas , si on ne passe pas a l'action. mieux vaut passer a l'action et se tromper pour recommencer encore et encore jusqu'a y arriver plutot que de ne rien faire.
+
+l'exercice consiste donc :
+
+-creer un tableau croisé dynamique
+-manipuler les filtres
+-savoir protéger les données sensibles
+-manipuler excel
+-gérer l'organisation d'un tableau
+-manipuler les sources provenant du tableau
